@@ -1,20 +1,20 @@
-INFO:rssolver:Found valid plan
-INFO:rssolver:  Korrosion keramischer Werkstoffe
-INFO:rssolver:  Kommunikative Usability - Übung Donnerstag
-INFO:rssolver:  Werkstoffkunde der Hochtemperatur
-INFO:rssolver:Found valid plan
-INFO:rssolver:  Korrosion keramischer Werkstoffe
-INFO:rssolver:  Thermochemie mineralischer Werkstoffe
-INFO:rssolver:  Berechnung und Auslegung Industrieofen
-INFO:rssolver:Found valid plan
-INFO:rssolver:  Kommunikative Usability - Übung Montag
-INFO:rssolver:  Feuerfeste Werkstoffe
-INFO:rssolver:  Technologie der Gusswerkstoffe
-INFO:rssolver:Found valid plan
-INFO:rssolver:  Kommunikative Usability - Übung Montag
-INFO:rssolver:  Thermochemie mineralischer Werkstoffe
-INFO:rssolver:  Berechnung und Auslegung Industrieofen
-INFO:rssolver:Found valid plan
-INFO:rssolver:  Kommunikative Usability - Übung Donnerstag
-INFO:rssolver:  Feuerfeste Werkstoffe
-INFO:rssolver:  Technologie der Gusswerkstoffe
+Found valid plan
+  Korrosion keramischer Werkstoffe
+  Kommunikative Usability - Übung Donnerstag
+  Werkstoffkunde der Hochtemperatur
+Found valid plan
+  Korrosion keramischer Werkstoffe
+  Thermochemie mineralischer Werkstoffe
+  Berechnung und Auslegung Industrieofen
+Found valid plan
+  Kommunikative Usability - Übung Montag
+  Feuerfeste Werkstoffe
+  Technologie der Gusswerkstoffe
+Found valid plan
+  Kommunikative Usability - Übung Montag
+  Thermochemie mineralischer Werkstoffe
+  Berechnung und Auslegung Industrieofen
+Found valid plan
+  Kommunikative Usability - Übung Donnerstag
+  Feuerfeste Werkstoffe
+  Technologie der Gusswerkstoffe
